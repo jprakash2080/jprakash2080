@@ -5,7 +5,7 @@ Scripting : Go Lang, Python, C#
 Windows/Desktop Technologies  :  C#. net , Vb.net, Vb 6.0 ,Window API,
 Web/Server Technologies: Asp.net, SOAP & Rest Web service, Linux
 Database/NO SQL : SQL Server , MYSQL, MONGODB
-Other Tech: Regular Expression, Xpath, 
+Other Tech: Regular Expression, Xpath, Cryptography 
 COM, Multi Threading, object-based and component technologies,Object-oriented Analysis and Design 
 
 
